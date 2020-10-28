@@ -5,8 +5,14 @@ import { LogWrapper } from './style';
 
 const LogContainer = () => (
   <LogWrapper>
-    <h1>Im the LogContainer</h1>
-    <Log />
+    <ul>
+      <Log />
+      <Log />
+      <Log />
+      <Log />
+      <Log />
+      <Log />
+    </ul>
   </LogWrapper>
 );
 

@@ -3,7 +3,7 @@ import { BannerWrapper } from '../../../Style';
 
 const Header = () => (
   <BannerWrapper>
-    <h1> Im the Header</h1>
+    <h1>Pepper Pictures and logo</h1>
   </BannerWrapper>
 );
 

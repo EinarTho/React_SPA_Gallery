@@ -3,7 +3,7 @@ import { LogWrapper } from './style';
 
 const Log = () => (
   <LogWrapper>
-    <h1>Im the Log</h1>
+    <p>Im the Log</p>
   </LogWrapper>
 );
 

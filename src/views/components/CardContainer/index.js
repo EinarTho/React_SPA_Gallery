@@ -5,7 +5,11 @@ import { CardContainerWrapper } from './style';
 const CardContainer = () => (
   <CardContainerWrapper>
     <h1>Im the CardContainer</h1>
-    <Card />
+    <div>
+      <Card />
+      <Card />
+      <Card />
+    </div>
   </CardContainerWrapper>
 );
 
